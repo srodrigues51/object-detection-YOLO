@@ -1,4 +1,4 @@
 # object-detection-YOLO
 
-This is a project for a class subject (Topicos sem Computação). 
-It's basic an object detection witch when detect a person the program, using pyAutoGUI minize the applications tha are open.
+This is a project for a class subject (Topicos em Computação). 
+It's basicaly an object detection witch when the program detect a person the applications that are open automatic minimize. For this I used pyAutoGUI.
